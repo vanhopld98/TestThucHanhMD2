@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class DataHandler {
-    final private static String filePath = "D:\\Code\\src\\test\\product.txt";
+    final private static String filePath = "C:\\CodeGym\\Module 2\\TestThucHanh\\src\\product.txt";
     private static ProductManager productManagement = new ProductManager();
 
     public DataHandler() {
